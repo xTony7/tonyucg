@@ -1,26 +1,27 @@
-# tonyucg
-# Titulo grande
-## Subtitulo
-### Subsubtitulo
-#### Subsubsubtitulo
+# Proyecto Final 
+# Linux
+## Jose Antonio Santiago Martinez
+### Ing. Sistemas Computacionales
+#### UCG
 
-*Letra en negritas*
+*Programa escrito en c++ sobre una calculadora basica*
 Letra normal
 
 Lista: 
-* Elemento 1
-* Elemento 2
-* Elemento 3
+* Como primer paso se debera ejecutar el archivo "install.sh", el cual hara las serie de comandos necesarios para ejecutar el programa.
+* Esto nos creara la carpeta build y los archivos necesarios
+* Sera necesario estar y abrir la terminal donde esten este archivo junto a la carpeta
+* Ejecutar los comandos basicos marcados a continuacion. 
 
 Enlace al repositorio: https://github.com/profedm/linux_ucg
 
 ### Lista de comandos básicos:
 
-* *git clone [repositorio]*: Copiar repositorio en equipo
-* *git pull*: Actualizar el repositorio
-* *git add [fuente]*: Añadir modificaciones al repositorio
-* *git commit -m [comentario]*: Comentar los cambios
-* *git push origin master*: Subir los cambios al repositorio
+* sudo chmod +x install.sh
+* Introducir tu contraseña para dar permisos
+* ./install.sh
+* Probar la calculadora siguiendo los pasos nece
+
 
 ### Documentacion de readme: 
 Enlace: https://help.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax
