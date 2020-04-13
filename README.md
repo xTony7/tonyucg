@@ -23,5 +23,3 @@ Enlace al repositorio: https://github.com/profedm/linux_ucg
 * Probar la calculadora siguiendo los pasos nece
 
 
-### Documentacion de readme: 
-Enlace: https://help.github.com/es/github/writing-on-github/basic-writing-and-formatting-syntax
