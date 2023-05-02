@@ -5,7 +5,7 @@
 #### UCG
 
 *Programa escrito en c++ sobre una calculadora basica*
-Letra normal
+
 
 Lista: 
 * Como primer paso se debera ejecutar el archivo "install.sh", el cual hara las serie de comandos necesarios para ejecutar el programa.
