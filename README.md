@@ -20,6 +20,6 @@ Enlace al repositorio: https://github.com/profedm/linux_ucg
 * sudo chmod +x install.sh
 * Introducir tu contraseña para dar permisos
 * ./install.sh
-* Probar la calculadora siguiendo los pasos nece
+* Probar la calculadora siguiendo los pasos necesarios
 
 
